@@ -65,7 +65,7 @@ For Software:
 
 ![Toast Notification](https://github.com/user-attachments/assets/toast-placeholder.png)
 *A Windows 11 Toast notification delivering a highly specific roast based on the user's screen contents.*
-bruh test 2toooooooooooooo
+bruh
 # Diagrams
 ![Workflow](https://github.com/user-attachments/assets/architecture-placeholder.png)
 *Browser extension detects a distracting site -> Python server captures screen -> Vision AI analyzes screen + applies persona -> Generates insult -> Windows Toast pop-up.*
