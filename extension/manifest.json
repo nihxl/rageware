@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "RAGEWARE Tab Tracker",
+  "version": "1.0",
+  "description": "Reports active tab domain to RAGEWARE local server",
+  "permissions": ["tabs", "activeTab"],
+  "host_permissions": ["http://localhost:8765/*"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
